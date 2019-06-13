@@ -26,5 +26,5 @@ int main(){
         }
     }
     cout << flag;
-    cin >> flag;
+    return 0;
 }
