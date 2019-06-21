@@ -36,8 +36,5 @@ int main(){
     vector<int> v = {0,4,1,5,4,8,3,0,4};
     cout << mediana(v) << '\n';
     cout << moda(v);
-    
-    int a;
-    cin>>a;
     return 0;
 }
